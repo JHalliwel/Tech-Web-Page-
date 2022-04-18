@@ -1,0 +1,154 @@
+*{box-sizing: border-box;}
+
+section {
+    height: 370px;
+    width: 35%;
+    
+    float: left;
+}
+.log {
+    height: 370px;
+    width: 15%;
+    float: left;
+}
+.foto {
+    height: 370px;
+    width: 50%;
+    
+    float: left;
+}
+
+.botton {
+    height: 540px;
+    width: 28.33%;
+    float:left
+}
+.b4 {
+height: 540px;
+width: 15%;
+float: left;
+}
+.g1, a {
+    color: grey;
+    text-align: justify;
+    padding-left: 0px;
+    
+}
+.primero {
+    width: 85%;
+}
+.aut {
+    font-weight: lighter;
+    font-size: 12px;
+}
+
+.a1 {
+    font-size: 20px;
+    margin: 0px;
+   }
+
+.a2 {
+    font-size: 12px;
+    margin: 5px;
+    border-bottom: 2px solid grey;
+}
+h4 {
+    color: green;
+    font-size: 12px;
+    margin: 5px;
+}
+
+h4 span {
+    color: orange;
+    font-size: 12px;
+    margin: 0px;
+    }
+
+.a3 {
+    font-size: 20px;
+    margin: 5px;
+   }
+
+.a4 {
+    font-size: 12px;
+    margin: 5px;
+    border-bottom: 2px solid grey;
+}
+
+.a5 {
+    font-size: 20px;
+    margin: 5px;
+    }
+.a6 {
+    font-size: 12px;
+    margin: 5px;
+    border-bottom: 2px solid grey;
+}
+.a7 {
+    font-size: 20px;
+    margin: 5px;
+}
+.a8 {
+    font-size: 12px;
+    margin: 5px;
+    border-bottom: 2px solid grey;
+}
+.a9 {
+    font-size: 15px;
+    margin: 5px;
+    padding-top: 10px;
+    border-bottom: 2px solid grey;
+}
+.a10 {
+    font-size: 25px;
+    margin: 5px;
+
+}
+.a11 {
+    font-size: 12px;
+    margin: 5px;
+    padding-bottom: 25px;
+    border-bottom: 2px solid grey;
+}
+.zebra {
+    color: green;
+    margin-top: 0px;
+    }
+.zebra span {
+    color: orange;
+    
+    
+}
+.a12 {
+    
+    font-size: 25px;
+   }
+
+.uno {
+    padding-top: 25px;
+    padding-bottom: 55px;
+    font-size: 15px;
+}
+
+.dos {
+    padding-top: 35px;
+    font-size: 15px;
+    padding-bottom: 100px;
+}
+.tres {
+    padding-top: 45px;
+    font-size: 15px;
+    padding-bottom: 100px;
+}
+.p1 {
+    padding-top: 5px;
+    padding-bottom: 20px;
+}
+.p2 
+{
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.p3 {
+    padding-top: 30px;
+}
